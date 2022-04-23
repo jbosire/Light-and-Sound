@@ -49,11 +49,11 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
-[The main problem I faced during creating the submission was implementing the optional features. 
+The main problem I faced during creating the submission was implementing the optional features. 
 First of all, it took me quite a while to do the changing playback speeds at each turn. I knew I had to decrease my clue and pause times after each turn/guess but at first it wasn’t working well since the last pause time used in the previous game was being used as the starting pause time for the next game. Considering it was only a matter of placing the time deductions in the right place, I was able to quickly identify the correct function to place them.
 The same applies to creating a random pattern for the games. I knew I had to create an array and fill it with random numbers, it was just a matter of finding out the JavaScript syntax for it. A similar problem then arose where the game would create a random pattern for the first game, then the same pattern would persist to later games. Just as in the playback speeds, I was able to use knowledge I have from using java (especially knowledge on loops since all these functions seem to interact in one big loop) to find the appropriate place to place my pattern formation.
 It took me quite a while to figure out a way to insert images on my buttons and various tunes instead of the tones provided. I figured out the appropriate methods and where to place them on stack overflow. After that it was easy to just give image path links to the methods to insert images. As for the music, it wasn’t so simple since I needed a particular type of music file and it took me quite a while to find the appropriate sample music files to use for the buttons.
-]
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
