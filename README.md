@@ -4,7 +4,7 @@
 
 Submitted by: **Joram Bosire**
 
-Time spent: **4** hours spent in total
+Time spent: **17** hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
