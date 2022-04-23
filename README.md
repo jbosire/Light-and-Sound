@@ -6,7 +6,7 @@ Submitted by: **Joram Bosire**
 
 Time spent: **17** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/seemly-sprout-pint?path=script.js%3A1%3A0)
 
 ## Required Functionality
 
@@ -54,7 +54,10 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [YOUR ANSWER HERE]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[Considering it’s a memory game, it would be interesting to implement an algorithm that keeps track of a player’s stats over time and give a rough verdict on their memory ability and whether it’s improving over time as you play the game.
+I would also add different game modes (for example easy and hard) to enable users test themselves. For example, have the music mix up for the buttons while the light stays the same or have the lights mix up while music stays the same so that people who primarily depend on either the tone or the lights are forced to approach the game differently. And I could also vary playback and guess speeds. Additionally, I would add special game modes so the game doesn’t become monotonous, such as a “reverse light-and-sound” where the pattern involves all but one button lighting up and sounding, or buttons switch positions on the screen during each sequence.
+I would also work on making it more user-friendly by making it customizable. Users would be able to create their own patterns, increase or decrease the number of buttons and change button appearance and sound.
+]
 
 
 
